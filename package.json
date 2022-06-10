@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-dapp-scaffold",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "styled-components"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krypto-Camp/cra-template-dapp-scaffold.git"
+  },
+  "author": "Wen-Hong Huang",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/Krypto-Camp/cra-template-dapp-scaffold/issues"
+  },
+  "homepage": "https://github.com/Krypto-Camp/cra-template-dapp-scaffold#readme"
+}
