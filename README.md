@@ -2,12 +2,16 @@
 
 KryptoCamp React Boilerplate with [Create React App](https://github.com/facebook/create-react-app)
 
+![version](https://img.shields.io/npm/v/@kryptocamp/cra-template-dapp-scaffold)
+
+![License MIT](https://img.shields.io/badge/license-MIT-lightgrey)
+
 ## Installation
 
 ### Install with create-react-app
 
 ```bash
-npx create react-app@latest --template cra-template-dapp-scaffold my-awesome-app
+npx create-react-app@latest --template cra-template-dapp-scaffold my-awesome-app
 ```
 
 ### Setting .env

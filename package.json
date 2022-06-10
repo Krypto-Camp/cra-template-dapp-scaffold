@@ -1,6 +1,6 @@
 {
   "name": "@kryptocamp/cra-template-dapp-scaffold",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "A boilerplate for Dapp",
   "files": [
     "template",
